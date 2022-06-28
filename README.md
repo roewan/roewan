@@ -1,4 +1,4 @@
-# Hi, I'm Fatin 👋
+# Hi, I'm Roefatin 👋
 
 ## About Me 👩‍💻
 
@@ -10,15 +10,20 @@
       
  ⚡  I'm also interested in **Data Science & Analytics** stuffs.
       
- 👯  I'm looking to collaborate on data visualization projects.
+ 👯  I'm looking to collaborate on data visualization & open source projects.
       
  🔭  My goal is to learn & contribute to as many **open source projects** as possible.
+ 
+ 📧  Reach me at roefatinridzuan@gmail.com
 
   </tr>
   </table>
  
- ### 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=roewan&theme=dracula&hide_border=true)
+ ###
+ [![Roe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=roewan)](https://github.com/roewan/github-readme-stats)
+ [![Roefatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=roewan&show_icons=true&theme=synthwave)](https://github.com/roewan/github-readme-stats)
+ <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roewan&layout=compact&theme=synthwave)](https://github.com/roewan/github-readme-stats)-->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=roewan&theme=synthwave&hide_border=true)
 
 ## Connect With Me 👋🏼
 
