@@ -40,6 +40,8 @@
 <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/grafana.png"/>
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+<!--<img src="https://download.logo.wine/logo/InfluxDB/InfluxDB-Logo.wine.png"/>
+-->
 
 <!--
 **roewan/roewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
