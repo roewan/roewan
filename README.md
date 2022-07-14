@@ -20,7 +20,7 @@
   </table>
  
  ###
- [![Roe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=roewan)](https://github.com/roewan/github-readme-stats)
+ <!--![Roe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=roewan)-->
  [![Roefatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=roewan&show_icons=true&theme=synthwave)](https://github.com/roewan/github-readme-stats)
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roewan&layout=compact&theme=synthwave)](https://github.com/roewan/github-readme-stats)-->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=roewan&theme=synthwave&hide_border=true)
