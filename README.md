@@ -6,7 +6,7 @@
   <tr>
     <td valign="center">
       
- 🌱  I'm currently learning **Javascript**, **React.js** & **PowerShell** programming languages.
+ 🌱  I'm currently learning **Javascript** & **React.js**.
       
  ⚡  I'm also interested in **Data Science & Analytics** stuffs.
       
